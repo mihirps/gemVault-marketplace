@@ -1,0 +1,7 @@
+{
+  "name": "GemVault Marketplace",
+  "description": "A premium B2B and B2C marketplace for diamonds, jewelry, and gemstones featuring AI-powered valuation, real-time market trends, and advanced GIA-integrated search.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
